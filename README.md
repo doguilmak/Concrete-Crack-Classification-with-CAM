@@ -2,7 +2,7 @@
 
 <br>
 
-<img  src="https://github.com/doguilmak/Concrete-Crack-Classification-with-CAM/blob/main/concrete_crack_wp.png"  height=450  width=1000  alt="britannica.com">
+<img  src="https://github.com/doguilmak/Concrete-Crack-Classification-with-CAM/blob/main/concrete_crack_wp.png"  height=500  width=1000  alt="britannica.com">
 
 <small>Picture Source:<a  href="https://github.com/doguilmak"> Doğu İlmak Github</a>
 
