@@ -64,7 +64,7 @@ You can share, copy and modify this dataset so long as you give appropriate cred
 <h2>Prediction with Class Activation Map (CAM)</h2>
 
 <div align="center">
-	<img width=800  height=500 src="crack_example.png">
+	<img width=650  height=500 src="crack_example.png">
 </div>
 
 <p>Output(CAM Model)</p>
