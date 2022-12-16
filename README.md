@@ -67,7 +67,7 @@ You can share, copy and modify this dataset so long as you give appropriate cred
 	<img width=650  height=500 src="crack_example.png">
 </div>
 
-<p>Output(CAM Model)</p>
+<p><b>Output(CAM Model)</b></p>
 
 <small>Without Crack Probability: 0.07245049625635147</small> 
 
@@ -75,7 +75,7 @@ You can share, copy and modify this dataset so long as you give appropriate cred
 
 <br>	
 	
-<p>Output</p>
+<p><b>Output</b></p>
 
 <small>Without Crack Probability: % 0.0</small> 
 
