@@ -61,6 +61,26 @@ You can share, copy and modify this dataset so long as you give appropriate cred
 
 <br>
 
+<h2>Prediction with Class Activation Map (CAM)</h2>
+
+<div align="center">
+	<img width=800  height=500 src="crack_example.png">
+</div>
+
+<p>Output(CAM Model)</p>
+
+<small>Without Crack Probability: 0.07245049625635147</small> 
+
+<small>Crack Probability: 0.9275494813919067</small> 
+
+<p>Output</p>
+
+<small>Without Crack Probability: % 0.0</small> 
+
+<small>Crack Probability: % 100.0</small> 
+
+<br>
+
 <h1>Contact Me</h1>
 <p>If you have something to say to me please contact me:</p>
 
