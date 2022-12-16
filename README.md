@@ -73,6 +73,8 @@ You can share, copy and modify this dataset so long as you give appropriate cred
 
 <small>Crack Probability: 0.9275494813919067</small> 
 
+<br>	
+	
 <p>Output</p>
 
 <small>Without Crack Probability: % 0.0</small> 
