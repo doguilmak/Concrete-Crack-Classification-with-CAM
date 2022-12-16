@@ -67,19 +67,24 @@ You can share, copy and modify this dataset so long as you give appropriate cred
 	<img width=500  height=500 src="crack_example.png">
 </div>
 
-<p><b>Output(CAM Model)</b></p>
+<br>
 
-<small>Without Crack Probability: 0.07245049625635147</small> 
-
-<small>Crack Probability: 0.9275494813919067</small> 
-
-<br>	
-	
-<p><b>Output</b></p>
-
-<small>Without Crack Probability: % 0.0</small> 
-
-<small>Crack Probability: % 100.0</small> 
+<div align="center">
+	<table>  
+		<tr>  
+			<th>Output (CAM Model)</th>  
+			<th>Output (Base Model)</th>   
+		</tr>  
+		<tr>  
+			<td><small>Without Crack Probability: 0.07245049625635147</small></td>  
+			<td><small>Without Crack Probability: % 0.0</small></td>   
+		</tr>  
+		<tr>  
+			<td><small>Crack Probability: 0.9275494813919067</small></td>  
+			<td><small>Crack Probability: % 100.0</small></td>   
+		</tr>  
+	</table>
+</div>
 
 <br>
 
